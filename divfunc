@@ -1,2 +1,2 @@
-int (m,n) return (m-n)
+int div(a,b) return (a/b)
 
