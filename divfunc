@@ -1,2 +1,4 @@
 int (m,n) return (m-n)
+int div(m,n,l) return (m+n/l
+)
 
